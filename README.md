@@ -17,7 +17,11 @@ State-level judicial capacity and clearance data (2022)
 - Data Cleaning & Transformation
 
 ## Key Insights
-(Insert your refined insights here)
+-Several states report courthall shortfall levels exceeding 30%, highlighting significant infrastructure gaps that may contribute to delayed hearings and persistent judicial backlog.
+-Lower courts demonstrate a higher average case clearance rate compared to high courts, indicating that case complexity and procedural delays may be more concentrated at higher judicial levels.
+-States with a higher population-to-judge ratio at the high court level show signs of systemic capacity constraints, suggesting that judicial manpower shortages could be impacting overall efficiency.
+-Increased per capita judicial spending does not consistently translate into improved clearance rates, implying that budget allocation effectiveness may depend more on structural reforms and resource distribution.
 
 ## Dashboard Preview
-(Add screenshot image here)
+<img width="883" height="513" alt="image" src="https://github.com/user-attachments/assets/7440945c-dc03-4879-9915-4bed67bf62ad" />
+
